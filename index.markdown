@@ -5,4 +5,4 @@
 layout: home
 ---
 
-Hello World this is Tim
+Welcome! You're seeing this because I haven't figured out what should go here yet. Feel free to click around to the projects and blog pages to see what I've been working on and thinking about.

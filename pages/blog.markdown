@@ -2,5 +2,5 @@
 layout: blog
 title: Blog
 permalink: /blog/
-description: Musings about life, sports, and the world-at-large
+description: Musings about life, books, sports, and the world-at-large
 ---
