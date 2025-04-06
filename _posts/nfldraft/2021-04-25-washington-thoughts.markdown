@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Washington Football Team thoughts"
-date:   2020-04-25 20:48:06 -0400
+title:  "Washington Football Team thoughts 2021"
+date:   2021-04-25 20:48:06 -0400
 categories: nfldraft
 ---
 
